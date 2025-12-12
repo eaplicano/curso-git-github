@@ -3,3 +3,5 @@
 Hola soy eaplicano
 
 ## Mas contenido
+
+Este commit es para ofcializar nuestra version **1.0.0**
